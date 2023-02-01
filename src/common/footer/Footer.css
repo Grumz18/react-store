@@ -1,0 +1,50 @@
+/*---------ICONS-----------*/
+.icon-app-store {
+  width: 16px;
+  height: 16px;
+  background: url(../icon-pictures/app-store.png);
+  background-position: 0 0;
+}
+.icon-google-play {
+  width: 16px;
+  height: 16px;
+  background: url(../icon-pictures/google-play.png);
+  background-position: 0 0;
+}
+/*---------ICONS-----------*/
+footer {
+  background-color: #0f3460;
+  padding: 100px 0;
+  color: #fff;
+}
+footer h1 {
+  margin-bottom: 30px;
+  color: rgb(131, 207, 143);
+  font-weight: bold;
+  font-style: italic;
+  text-transform: uppercase;
+}
+footer .img {
+  background-color: #0c2a4d;
+  padding: 15px 20px;
+  border-radius: 10px;
+}
+footer .img i {
+  margin: 5px;
+}
+footer .img span {
+  margin-top: 5px;
+}
+footer p{
+  font-size: 14px;
+  font-weight: 300;
+  opacity: 0.5;
+  margin-bottom: 20px;
+}
+footer h2 {
+  margin-bottom: 20px;
+}
+footer li {
+  margin-bottom: 10px;
+  opacity: 0.5;
+}

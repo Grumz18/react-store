@@ -1,0 +1,26 @@
+.icon-border {
+  width: 16px;
+  height: 16px;
+  background-image: url("../icon-pictures/all.png");
+  background-position: 0 0;
+}
+.icon-chevron-down {
+  width: 16px;
+  height: 16px;
+  background-image: url("../icon-pictures/down.png");
+  background-position: 0 0;
+  margin-left: 10px;
+}
+.icon-close {
+  width: 32px;
+  height: 32px;
+  background-image: url("../icon-pictures/close.png");
+  background-position: 0 0;
+}
+.icon-open {
+  width: 32px;
+  height: 32px;
+  background-image: url("../icon-pictures/open.png");
+  background-position: 0 0;
+  margin-left: 10px;
+}

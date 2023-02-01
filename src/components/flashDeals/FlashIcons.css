@@ -1,0 +1,42 @@
+.icon-bolt {
+  width: 32px;
+  height: 32px;
+  background-image: url("../../common/icon-pictures/storm.png");
+  background-position: 0 0;
+}
+.icon-like {
+  width: 16px;
+  height: 16px;
+  background-image: url("../../common/icon-pictures/heart.png");
+  background-position: 0 0;
+}
+.icon-star {
+  width: 16px;
+  height: 16px;
+  background-image: url("../../common/icon-pictures/star.png");
+  background-position: 0 0;
+}
+.icon-plus{
+  width: 32px;
+  height: 32px;
+  background-image: url("../../common/icon-pictures/plus.png");
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.icon-long-arrow-right{
+  width: 16px;
+  height: 16px;
+  background-image: url("../../common/icon-pictures/icon-right.png");
+  background-position: 0 0;
+}
+.icon-long-arrow-left{
+  width: 16px;
+  height: 16px;
+  background-image: url("../../common/icon-pictures/icon-left.png");
+  background-position: 0 0;
+}
+
+.image-size {
+  height: 150px;
+  margin: 0 auto;
+}

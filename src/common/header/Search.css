@@ -1,0 +1,25 @@
+.search-icon {
+  width: 16px;
+  height: 16px;
+  background-image: url("../icon-pictures/search.png");
+  background-repeat: no-repeat;
+  background-position: 0 0;
+  margin-right: 5px;
+}
+.icon-user {
+  background-image: url("../icon-pictures/user.png");
+  background-position: 0 0;
+  background-repeat: no-repeat;
+  width: 24px; 
+  height: 24px;
+}
+.shopping-bag {
+  background: url('../icon-pictures/shopping-cart.png');
+  background-position: 0 0;
+  background-repeat: no-repeat;
+  width: 24px; 
+  height: 24px;
+}
+.cart {
+  display: flex;
+}
