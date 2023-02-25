@@ -15,9 +15,11 @@ The following technologies have been connected and used:
 
 To run this project on a computer, the `Node.js` library must be installed on the computer: https://nodejs.org/en/download/
 
-Navigating to the project directory to run it, you write the command to the console:
+Navigating to the project directory to run it, you write the command to the console. For example:
 
 ### `npm start`
+
+To stop the local server, use keyboard shortcut in your terminal `Ctrl+C`.
 
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
