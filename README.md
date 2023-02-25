@@ -17,6 +17,8 @@ To run this project on a computer, the `Node.js` library must be installed on th
 
 Navigating to the project directory to run it, you write the command to the console. For example:
 
+### ![Screenshot](https://github.com/Grumz18/myscreens/blob/main/scrin5.jpg)
+
 ### `npm start`
 
 To stop the local server, use keyboard shortcut in your terminal `Ctrl+C`.
@@ -31,3 +33,9 @@ When developing, I used the following documentation:
 2. https://reactrouter.com/en/main
 3. https://react-slick.neostack.com/docs/get-started
 4. https://developer.mozilla.org/en-US/docs/Web/JavaScript
+
+- Screenshots of my project:
+### ![Screenshot](https://github.com/Grumz18/myscreens/blob/main/scrin1.jpg)
+### ![Screenshot](https://github.com/Grumz18/myscreens/blob/main/scrin2.jpg)
+### ![Screenshot](https://github.com/Grumz18/myscreens/blob/main/scrin3.jpg)
+### ![Screenshot](https://github.com/Grumz18/myscreens/blob/main/scrin4.jpg)
